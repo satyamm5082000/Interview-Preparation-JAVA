@@ -1,2 +1,2 @@
-# Interview-Preparation-JAVA-
+# Interview-Preparation-JAVA
 Interview Preparation in JAVA.
